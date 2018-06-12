@@ -121,3 +121,41 @@ padding: 7px 0 0 18px;
 	font-family: arial;
 	
 }
+@media screen and (max-width:715px){
+	#r{
+	width: 20%;
+	float: left;
+	height: 54px;
+	
+}
+#s{
+	width: 46%;
+	float: left;
+	height: 30px;
+	text-align: center;
+	text-shadow: 2px 3px green;
+	text-transform: uppercase;
+	letter-spacing:2px;
+	font-size: 15px;
+	background-color: #779e6c;
+	
+	
+}
+#t{
+	width: 28.9%;
+	float: left;
+	height: 47px;
+	background-color: #779e6c;
+}
+#navbar li{
+	float: left;
+width: 50px;
+}
+#search input[type= "text"]{
+  width: 50px;
+}
+.slider{
+	min-height: 50px;
+}
+
+}
