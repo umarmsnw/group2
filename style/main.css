@@ -130,33 +130,33 @@ padding: 7px 0 0 18px;
 	
 }
 #s{
-	width: 46%;
+	width: 55%;
 	float: left;
 	height: 30px;
 	text-align: center;
 	text-shadow: 2px 3px green;
 	text-transform: uppercase;
 	letter-spacing:2px;
-	font-size: 15px;
+	font-size: 30px;
 	background-color: #779e6c;
 	
 	
 }
 #t{
-	width: 28.9%;
+	width: 20%;
 	float: left;
 	height: 47px;
 	background-color: #779e6c;
 }
 #navbar li{
 	float: left;
-width: 50px;
+	width: 150px;
 }
 #search input[type= "text"]{
-  width: 50px;
+  width: 55px;
 }
 .slider{
-	min-height: 50px;
+	min-height: 55px;
 }
 
 }
