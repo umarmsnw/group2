@@ -124,13 +124,13 @@ padding: 7px 0 0 18px;
 @media screen and (max-width:1114px){
 
 	#r{
-	width: 20%;
+	width: 30%;
 	float: left;
 	height: 54px;
 	
 }
 #s{
-	width: 55%;
+	width: 46%;
 	float: left;
 	height: 30px;
 	text-align: center;
@@ -139,7 +139,6 @@ padding: 7px 0 0 18px;
 	letter-spacing:2px;
 	font-size: 30px;
 	background-color: #779e6c;
-	
 	
 }
 #t{
@@ -150,7 +149,7 @@ padding: 7px 0 0 18px;
 }
 #navbar li{
 	float: left;
-	width: 150px;
+	width: 120px;
 }
 #search input[type= "text"]{
   width: 55px;
